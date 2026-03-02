@@ -1,4 +1,6 @@
 button{
     padding: 10px 20px;
-    background: teal;
+    background: tomato;
+    color: white;
+    font-size: 30px;
 }
